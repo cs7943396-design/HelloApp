@@ -1,8 +1,8 @@
-\## UC2:Display hello with Command-Line Argument
+\##UC3: Display Hello with Default Value
 
-\-Accepts name from command line
+\-Accepts optional command-line argument
 
-\-Display personalized greeting
+\-Uses"World"if no input is given
 
-\-Default:Hello World if no input
+\-Prevents runtime errors
 
